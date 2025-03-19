@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vivek Prakash  
 
 ## 🚀 About Me  
-I'm a **Web Developer and Software Engineer** with a passion for building scalable web applications, WordPress themes, and AI-driven automation tools. I specialize in integrating cutting-edge technologies to enhance user experiences and optimize business processes.  
+I'm a **Electrical and Software Engineer** with a passion for building scalable web applications, WordPress themes, and AI-driven automation tools. I specialize in integrating cutting-edge technologies to enhance user experiences and optimize business processes.  
 
 ## 🎯 Current Focus  
 - Building AI-powered SaaS platforms  
