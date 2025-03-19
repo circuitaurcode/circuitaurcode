@@ -1,5 +1,5 @@
 # vivekprakash
-# 👋 Hi, I'm Vivek Kumar  
+# 👋 Hi, I'm Vivek Prakash  
 
 ## 🚀 About Me  
 I'm a **Web Developer and Software Engineer** with a passion for building scalable web applications, WordPress themes, and AI-driven automation tools. I specialize in integrating cutting-edge technologies to enhance user experiences and optimize business processes.  
