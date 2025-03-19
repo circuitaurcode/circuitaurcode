@@ -33,7 +33,7 @@ I'm a **Web Developer and Software Engineer** with a passion for building scalab
 ## 🤝 Let's Connect  
 - **LinkedIn:** [Vivek Kumar](https://www.linkedin.com/in/circuitaurcode/)  
 - **GitHub:** [Vivek Kumar](https://github.com/circuitaurcode)  
-- **Email:** your-email@example.com  
+- **Email:** vievyadavktr@gmail.com 
 
 ---
 
