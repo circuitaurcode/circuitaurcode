@@ -31,8 +31,8 @@ I'm a **Web Developer and Software Engineer** with a passion for building scalab
 4. **Helpdesk Platform** – AI-driven SaaS platform for managing queries and grievances for education and local government sectors.  
 
 ## 🤝 Let's Connect  
-- **LinkedIn:** [Vivek Kumar](https://www.linkedin.com/in/your-profile/)  
-- **GitHub:** [Vivek Kumar](https://github.com/your-username)  
+- **LinkedIn:** [Vivek Kumar](https://www.linkedin.com/in/circuitaurcode/)  
+- **GitHub:** [Vivek Kumar](https://github.com/circuitaurcode)  
 - **Email:** your-email@example.com  
 
 ---
