@@ -1,4 +1,3 @@
-# vivekprakash
 # 👋 Hi, I'm Vivek Prakash  
 
 ## 🚀 About Me  
